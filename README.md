@@ -1,3 +1,3 @@
-Hw1 - Restaurant Website
-
-https://rh442.github.io/Restaurant-website/
+| Project | Description | Link | Web |
+|---------|-------------|------|------|
+| HW1  | Restuarant Website | https://github.com/rh442/Restaurant-website | https://rh442.github.io/Restaurant-website/ |
